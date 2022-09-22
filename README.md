@@ -1,1 +1,1 @@
-`PHP 7.*`, `Symfony`, `REST`, `PostgreSQL`, `Redis`, `Clean architecture`, `TDD`, `BDD`, `Docker`, `RabbitMQ`. 
+`PHP 7.*`, `Symfony`, `Nginx`, `REST`, `PostgreSQL`, `Redis`, `Clean architecture`, `TDD`, `BDD`, `Docker`, `RabbitMQ`. 
